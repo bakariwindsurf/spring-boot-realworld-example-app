@@ -83,3 +83,7 @@ Please fork and PR to improve the project.
 ## Contributing
 
 We welcome contributions! Please feel free to submit issues and pull requests.
+
+## Development Notes
+
+This repository has been verified to work with the standard development workflow including linting and testing.
